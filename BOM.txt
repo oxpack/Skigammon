@@ -1,0 +1,27 @@
+qty	Item
+1	Left Upper Board
+1	Right Upper Board
+1	Left Lower Board
+1	Right Lower Board
+1	Instruction Manual		Complete
+2	Six Sided Die;
+25	5 Groschen Bill			Complete
+20	25 Groschen Bill		Complete
+20	50 Groschen Bill		Complete
+7	Flask Card
+7	Thermal Underwear Card
+7	Poles Card
+7 	Ski Card
+7 	Goggles Card
+7 	Wax Card
+1	Set of Sitz Mark Cards		Complete
+1	set of Apres Ski Cards		Complete
+1	set of condition cards		Complete
+1 	box top
+1	box bottom
+1	Yellow piece			Complete
+1	Red piece			Complete
+1 	Green Piece			Complete
+1 	Black Piece			Complete
+1 	Purple Piece			Complete (Silver)
+1	Blue Piece			Complete
