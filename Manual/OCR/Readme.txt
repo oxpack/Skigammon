@@ -1,0 +1,1 @@
+I ran the scanned raw files through an online OCR program and got these files. Need some serious scrubbing.

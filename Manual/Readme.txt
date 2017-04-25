@@ -1,0 +1,1 @@
+Print the pdf on 8.5 x 11 double-sided and fold in half.
